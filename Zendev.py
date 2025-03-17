@@ -162,8 +162,8 @@ from pystyle import Colors, Colorate
 
 from zenbruh import Zendev
 
-__CHANNEL_USERNAME__ = "ZENXMAIN"
-__GROUP_USERNAME__   = "ZENXCPM"
+__CHANNEL_USERNAME__ = "ZENXCPM"
+__GROUP_USERNAME__   = "ZENXCHAT"
 
 def signal_handler(sig, frame):
     print("\n Bye Bye...")
